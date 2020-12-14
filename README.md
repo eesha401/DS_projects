@@ -1,2 +1,2 @@
 # DS_projects
-Class/Personal Projects relating to Data Science and Statistics
+Projects relating to Data Science and Statistics
